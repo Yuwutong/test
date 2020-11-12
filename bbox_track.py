@@ -15,7 +15,7 @@ from skimage.measure import label, regionprops
 from numpy import asarray
 import time
 
-src_folder = 'D:/data/291-350_C802'
+src_folder = 'D:/data/291-350_C802/1234'
 save_folder = src_folder
 fileid = '10375722802'
 
